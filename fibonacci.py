@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 
-# Fibunacci algorithm.
+# Fibonacci algorithm.
 # auther : Ahmad Abdollahzade (ahmadabd13741112@gmail.com)
 
-class fibunacci(object):
+class fibonacci(object):
     def __init__(self,a,b):
         self.a, self.b = a, b
 
@@ -13,7 +13,7 @@ class fibunacci(object):
             self.a, self.b = self.b, self.a + self.b
 
 choice = input("Enter a number : ")
-f = fibunacci(0,1)
+f = fibonacci(0,1)
 for i in f.series():
     if i > choice:
         break

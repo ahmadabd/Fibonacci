@@ -1,4 +1,4 @@
-# Fibunatchi
-This code solves fibunacci algorithm by python
+# Fibonatchi
+This code solves fibonacci algorithm by python
 
 Get a number from user and calculate fib sequence till this number.
