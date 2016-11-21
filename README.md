@@ -1,4 +1,4 @@
 # Fibunatchi
 This code solves fibunacci algorithm by python
 
-Its not complitelt yet :)
+Get a number from user and calculate fib sequence till this number.
